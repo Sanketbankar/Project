@@ -16,4 +16,14 @@ This Hangman Game is a simple Java application that allows users to play the cla
 
 To run the Hangman Game, you need to have Java installed on your machine. Follow these steps:
 
-1. 
+1. Clone the repository: gh repo clone Sanketbankar/Project
+2. Compile the Java source files: javac HangmanGame.java
+3. Run the game: java HangmanGame
+
+# Usage
+
+- Enter a letter guess and press Enter to submit your guess.
+- The game will display whether your guess is correct or incorrect.
+- Keep guessing letters until you either guess the word correctly or run out of attempts.
+- The game will keep track of your score based on the number of correct guesses.
+
